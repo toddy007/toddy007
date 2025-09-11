@@ -14,9 +14,6 @@ Hello, I'm **Jaelson** better known as **Toddy**. I'm a back-end developer with 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=toddy007&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-## ✉️ Contact Me
-My username on Discord is `toddy.gg`
-
 ---
 [![](https://visitcount.itsvg.in/api?id=toddy007&icon=6&color=8)](https://visitcount.itsvg.in)
 
