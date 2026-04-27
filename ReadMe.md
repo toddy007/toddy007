@@ -12,10 +12,4 @@ Hello, i'm **Jaelson** and i'm a back-end developer, with high-knowledge of back
 ![](https://streak-stats.demolab.com/?user=toddy007&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=toddy007&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=toddy007&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=toddy007&icon=4&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
